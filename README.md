@@ -36,4 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 To learn more about this specific repository check out this medium article: 
-
+https://medium.com/@gooltoe/window-is-not-defined-in-next-js-2757d3ed6196
